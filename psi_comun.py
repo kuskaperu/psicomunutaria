@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://localhost:3000/api/v1/prediction/09196429-a79e-4af4-a18a-c15a0e3f6e2b"
+API_URL = "http://localhost:3000/api/v1/prediction/cbe8d440-54ad-4a04-ae30-7a9086550d38"
 
 def query(payload):
     try:
